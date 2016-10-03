@@ -25,4 +25,16 @@
 		<span>"Saber no es suficiente, debemos aplicar. Desear no es suficiente, debemos hacer"</span>
 		<p>Goethe</p>
 	</div>
+	<div>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- home -->
+			<ins class="adsbygoogle"
+			     style="display:block"
+			     data-ad-client="ca-pub-8673470692858907"
+			     data-ad-slot="8959412077"
+			     data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
 </div>
